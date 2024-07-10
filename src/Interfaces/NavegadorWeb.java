@@ -1,6 +1,6 @@
 package Interfaces;
 
-public interface NavegadorInternet {
+public interface NavegadorWeb {
     void exibirPagina(String url);
 
     void adicionarNovaAba();

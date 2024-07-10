@@ -1,10 +1,10 @@
 package Telefone;
 
 import Interfaces.AparelhoTelefonico;
-import Interfaces.NavegadorInternet;
+import Interfaces.NavegadorWeb;
 import Interfaces.MusicPlayer;
 
-public class Iphone implements MusicPlayer, AparelhoTelefonico, NavegadorInternet {
+public class Iphone implements MusicPlayer, AparelhoTelefonico, NavegadorWeb {
 
     @Override
     public void ligar(String numero) {

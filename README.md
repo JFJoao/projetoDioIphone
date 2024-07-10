@@ -44,4 +44,4 @@ Com base no vídeo de lançamento do iPhone de 2007, você deve elaborar a diagr
 
 ## Diagrama UML (Astah)
 
-![Texto Alternativo](URL_da_Imagem)
+![Diagrama uml feito no Astah](/src/assets/umlDioIphone.jpg)
